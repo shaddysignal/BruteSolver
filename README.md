@@ -1,21 +1,9 @@
 # BruteSolver
 
-**TODO: Add description**
+Just crazy straight way of solving(finding at least one solution) equation.
 
-## Installation
+Should always place tactical spaces when providing equation. Like x + 1 instead of x+1.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `brute_solver` to your list of dependencies in `mix.exs`:
+## Variants
 
-```elixir
-def deps do
-  [
-    {:brute_solver, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/brute_solver](https://hexdocs.pm/brute_solver).
-
+Right now its only 2 brutes. Completly random and intelligent one.
